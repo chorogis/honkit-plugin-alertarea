@@ -1,0 +1,24 @@
+{
+    "name": "honkit-plugin-alertarea",
+    "version": "0.1.0",
+    "description": "Alert plugin compatible with hackmd/codimd syntax",
+    "engines": {
+        "honkit": ">=3.6.0"
+    },
+    "keywords": [
+        "gitbook",
+        "gitbook-plugin",
+        "honkit",
+        "honkit-plugin"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chorogis/honkit-plugin-alertarea.git"
+    },
+    "author": "chorogis",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/chorogis/honkit-plugin-alertarea/issues"
+    },
+    "homepage": "https://github.com/chorogis/honkit-plugin-alertarea#readme"
+}
